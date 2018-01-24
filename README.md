@@ -1,2 +1,2 @@
-# dropbox-redesign
+# Dropbox Redesign
 My view of dropbox dashboard
